@@ -4,7 +4,7 @@ This is a full stack project which uses react for the frontend and a python flas
 It uses a content based reccomendation system to provide book reccomendations
 
 
-Visit the Website here:✨📚 https://smart-reads-ml.vercel.app/ 📚✨
+Visit the Website here:✨📚 https://book-recommender.vercel.app/ 📚✨
 
 
 ## Features.
@@ -23,7 +23,7 @@ Visit the Website here:✨📚 https://smart-reads-ml.vercel.app/ 📚✨
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/game-of-life-react.git
+   git clone https://github.com/tusharpamnani/book-recommender.git
    ```
 2. Changing the repository:
    
